@@ -163,6 +163,6 @@ cython_debug/
 
 artifacts/data/collected_data/
 artifacts/data/grouped_data/
-artifacts/data.zip
+artifacts/data/grouped_data.zip
 
 VECTOR_STORES/
